@@ -25,7 +25,7 @@ dependencies:
   path_provider: ^2.0.1
   pedantic: ^1.9.2
   sqflite: ^2.0.0+3
-  synchronized: ^2.2.0+2
+  synchronized: ^3.0.0
 
 dev_dependencies:
   flutter_test:
